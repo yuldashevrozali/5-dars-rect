@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: SF Pro Display;
+}
+
+.frame {
+    display: flex;
+    margin-top: 50px;
+    padding-left: 100px;
+    gap: 150px;
+}
+
+.frame-left img {
+    margin-left: 120px;
+    margin-top: 45px;
+}
+
+.frame-left h1 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 71.6px;
+    color: #252525;
+    margin-bottom: 1px;
+    margin-left: 16px;
+    margin-top: 140px;
+}
+
+.frame-left {
+    padding-left: 20px;
+    width: 500px;
+}
+
+.frame-left p {
+    font-family: SF Pro Display;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 70px;
+}
+
+input {
+    background: #F3F3F3;
+    width: 427px;
+    height: 56px;
+    font-family: SF Pro Display;
+    font-size: 24px;
+    padding-left: 15px;
+    display: block;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BFBFBF;
+}
+
+.frame-left button {
+    width: 442px;
+    font-size: 24px;
+    height: 56px;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-bottom: 160px;
+}
+
+#link {
+    margin-top: 10px;
+    margin-left: 65px;
+    margin-bottom: 80px;
+}
+
+.frame-left label {
+    font-size: 24px;
+}
+
+#vim {
+    margin-left: 65px;
+}
